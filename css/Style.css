@@ -1,0 +1,48 @@
+html{
+height:100%; width:100%;
+
+}
+
+body{
+width:100%; height:100%; margin:0px; padding:0px;
+border:0px; font-family:Arial; sans-serif; backgroud:#fff;
+font-size: 12px; line-height:10px;
+
+}
+
+#header{
+height: 85px; margin:0px; padding:0px; text-align:left;
+background:#ff4800;
+}
+
+
+#header h1{
+padding:1em; margin:0x; color:#fff;
+
+}
+
+#content{
+margin:0px; padding-top:10px; height:400; width:100%; background:#eee1b9;
+
+}
+
+#footer{
+
+height:1em; margin:0px; padding:1em; text-align:center; color:black;
+}
+
+#nav{
+  width:200px; background: white; margin:0x; padding:1em 2em;
+}
+
+#main{
+padding-left:3em; vertical-align:top;
+}
+
+ul.info{
+padding: 0px; list-style:none; 
+}
+
+ul.pages{
+list-style:none; font-size:14px;
+}

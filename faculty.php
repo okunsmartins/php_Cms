@@ -1,16 +1,10 @@
-<html>
-<head>
-<title>
-     New Faculty 
-</title>
-</head>
-<body>
-<div id ="header"> <!--Header-->
+<?php
 
-<h2>Village Park </h2>
+	include("includes/header.php");
 
-<div>
 
+
+?>
 
 
 <div id ="content"> <!-- Main Content-->
@@ -47,7 +41,8 @@
 
 </div>
 
-<div id="footer"> Copyright 2015, Village Park </div>
+<?php
 
-</body>
-</html>
+include("includes/footer.php");
+
+?>
