@@ -39,6 +39,9 @@ height:1em; margin:0px; padding:1em; text-align:center; color:black;
 padding-left:3em; vertical-align:top;
 }
 
+
+
+#new{font-size:10px; font-family:arial;}
 ul.info{
 padding: 0px; list-style:none; 
 }
@@ -46,3 +49,8 @@ padding: 0px; list-style:none;
 ul.pages{
 list-style:none; font-size:14px;
 }
+
+
+.selected {font-weight:bold}
+
+
